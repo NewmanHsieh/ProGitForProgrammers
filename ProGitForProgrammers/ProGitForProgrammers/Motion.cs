@@ -24,6 +24,10 @@ namespace ProGitForProgrammers
         {
 
         }
+        public void Reset()
+        {
+
+        }
 
     }
 }
