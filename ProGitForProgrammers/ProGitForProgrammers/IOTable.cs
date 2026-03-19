@@ -13,6 +13,10 @@ namespace ProGitForProgrammers
         {
 
         }
+        public void Output()
+        {
+
+        }
 
     }
 }
