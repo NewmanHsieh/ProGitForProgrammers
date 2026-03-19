@@ -14,7 +14,11 @@ namespace ProGitForProgrammers
         }
         public int Subtract(int left, int right)
         {
-            return left + right;
+            return left - right;
+        }
+        public int Multiply(int left, int right)
+        {
+            return left *right;
         }
 
     }
