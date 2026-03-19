@@ -8,9 +8,6 @@ namespace ProGitForProgrammers
 {
     class Book
     {
-        public string Title { get; set; }
-        public string Authors { get; set; }
-        public string PublicationDate { get; set; }
 
 
     }
