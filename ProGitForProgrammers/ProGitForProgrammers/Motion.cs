@@ -8,6 +8,11 @@ namespace ProGitForProgrammers
 {
     class Motion
     {
+        public void Jog()
+        {
+        }
+
+
 
 
     }
