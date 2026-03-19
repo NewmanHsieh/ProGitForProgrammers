@@ -10,6 +10,7 @@ namespace ProGitForProgrammers
     {
         public string Title { get; set; }
         public string Authors { get; set; }
+        public string PublicationDate { get; set; }
 
 
     }
