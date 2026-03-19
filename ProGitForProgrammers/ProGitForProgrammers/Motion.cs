@@ -10,8 +10,8 @@ namespace ProGitForProgrammers
     {
         public void Jog()
         {
-        }
 
+        }
         public void abs()
         {
 
@@ -20,7 +20,10 @@ namespace ProGitForProgrammers
         {
 
         }
+        public void Home()
+        {
 
+        }
 
     }
 }
