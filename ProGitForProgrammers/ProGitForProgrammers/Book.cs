@@ -13,4 +13,6 @@ namespace ProGitForProgrammers
         public string PublicationDate { get; set; }
 
     }
+
+
 }
