@@ -12,7 +12,10 @@ namespace ProGitForProgrammers
         {
         }
 
+        public void abs()
+        {
 
+        }
 
 
     }
