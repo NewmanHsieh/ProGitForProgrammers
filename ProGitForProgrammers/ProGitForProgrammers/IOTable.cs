@@ -9,6 +9,10 @@ namespace ProGitForProgrammers
     class IOTable
     {
 
+        public void Input()
+        {
+
+        }
 
     }
 }
