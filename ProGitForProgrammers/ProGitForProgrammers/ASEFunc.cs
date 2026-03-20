@@ -10,7 +10,8 @@ namespace ProGitForProgrammers
 	{
 		public void AutoMvoeIn()
 		{
-
+			//add a flag ver
+			bool flag = false;
 		}
 		public void AutoMvoeOut()
 		{
