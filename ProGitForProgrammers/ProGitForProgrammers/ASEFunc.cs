@@ -10,13 +10,13 @@ namespace ProGitForProgrammers
 	{
 		public void AutoMvoeIn()
 		{
-
+			//To fix some bug
 		}
 		public void AutoMvoeOut()
 		{
+            //To fix some bug
+        }
 
-		}
-
-	}
+    }
 
 }
