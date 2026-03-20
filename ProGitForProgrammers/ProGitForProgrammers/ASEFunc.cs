@@ -11,12 +11,13 @@ namespace ProGitForProgrammers
 		public void AutoMvoeIn()
 		{
 			//add a flag ver
+			//To fix some bug
 			bool flag = false;
 		}
 		public void AutoMvoeOut()
 		{
-
-		}
+            //To fix some bug
+        }
 
 	}
 
